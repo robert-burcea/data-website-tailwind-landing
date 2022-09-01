@@ -18,7 +18,7 @@ function Analytics() {
                     Corrupti aliquid minus ut totam dignissimos tenetur doloremque sit necessitatibus rerum. 
                     A illum nam ipsa exercitationem architecto, laudantium maxime nesciunt dolores modi?
                 </p>
-                <button className="bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 px-6 py-3">Get Started</button>
+                <button className="bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 px-6 py-3 active:scale-95">Get Started</button>
             </div>
         </div>
     </div>
